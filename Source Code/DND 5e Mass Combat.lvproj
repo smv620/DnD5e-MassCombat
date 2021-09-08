@@ -12,7 +12,10 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="(MAIN) __Mass Combat Sim.vi" Type="VI" URL="../(MAIN) __Mass Combat Sim.vi"/>
 		<Item Name="Location.ctl" Type="VI" URL="../Location.ctl"/>
+		<Item Name="MC5e Control_Info_Cluster.ctl" Type="VI" URL="../MC5e Control_Info_Cluster.ctl"/>
 		<Item Name="MC5e Force.ctl" Type="VI" URL="../MC5e Force.ctl"/>
+		<Item Name="MC5e Size_Categories.ctl" Type="VI" URL="../MC5e Size_Categories.ctl"/>
+		<Item Name="MC5e Squad_Summary.ctl" Type="VI" URL="../MC5e Squad_Summary.ctl"/>
 		<Item Name="MC5e Terrain types.ctl" Type="VI" URL="../MC5e Terrain types.ctl"/>
 		<Item Name="MC5e Unit.ctl" Type="VI" URL="../MC5e Unit.ctl"/>
 		<Item Name="Message_Log_Control.ctl" Type="VI" URL="../Utilities/Message_Log_Control.ctl"/>
@@ -20,6 +23,7 @@
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Escape Characters for HTTP.vi" Type="VI" URL="/&lt;vilib&gt;/printing/PathToURL.llb/Escape Characters for HTTP.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
@@ -31,6 +35,7 @@
 				<Item Name="Open URL in Default Browser.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser.vi"/>
 				<Item Name="Path to URL inner.vi" Type="VI" URL="/&lt;vilib&gt;/printing/PathToURL.llb/Path to URL inner.vi"/>
 				<Item Name="Path to URL.vi" Type="VI" URL="/&lt;vilib&gt;/printing/PathToURL.llb/Path to URL.vi"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
