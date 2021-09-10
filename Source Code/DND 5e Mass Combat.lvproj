@@ -16,10 +16,13 @@
 		<Item Name="Location.ctl" Type="VI" URL="../Location.ctl"/>
 		<Item Name="MC5e Build_Squad_Listbox.vi" Type="VI" URL="../MC5e Build_Squad_Listbox.vi"/>
 		<Item Name="MC5e Calculate_Squad.vi" Type="VI" URL="../MC5e Calculate_Squad.vi"/>
+		<Item Name="MC5e Config File Types.ctl" Type="VI" URL="../MC5e Config File Types.ctl"/>
 		<Item Name="MC5e Control_Info_Cluster.ctl" Type="VI" URL="../MC5e Control_Info_Cluster.ctl"/>
 		<Item Name="MC5e Data_Parameters.ctl" Type="VI" URL="../MC5e Data_Parameters.ctl"/>
 		<Item Name="MC5e Force.ctl" Type="VI" URL="../MC5e Force.ctl"/>
 		<Item Name="MC5e Gobal_Variables.vi" Type="VI" URL="../MC5e Gobal_Variables.vi"/>
+		<Item Name="MC5e Open Config XML.vi" Type="VI" URL="../MC5e Open Config XML.vi"/>
+		<Item Name="MC5e Save Squad XML.vi" Type="VI" URL="../MC5e Save Squad XML.vi"/>
 		<Item Name="MC5e Size_Categories.ctl" Type="VI" URL="../MC5e Size_Categories.ctl"/>
 		<Item Name="MC5e Squad_Editor.vi" Type="VI" URL="../MC5e Squad_Editor.vi"/>
 		<Item Name="MC5e Squad_Manager.vi" Type="VI" URL="../MC5e Squad_Manager.vi"/>
@@ -66,7 +69,7 @@
 			<Item Name="MC5e Add_to_Q.vi" Type="VI" URL="../MC5e Add_to_Q.vi"/>
 			<Item Name="MC5e Command Q.ctl" Type="VI" URL="../MC5e Command Q.ctl"/>
 			<Item Name="MC5e Global_Error_Codes.vi" Type="VI" URL="../MC5e Global_Error_Codes.vi"/>
-			<Item Name="MC5e Open Config XML.vi" Type="VI" URL="../MC5e Open Config XML.vi"/>
+			<Item Name="MC5e Open Squad XML.vi" Type="VI" URL="../MC5e Open Squad XML.vi"/>
 			<Item Name="MC5e Save_Config_XML.vi" Type="VI" URL="../MC5e Save_Config_XML.vi"/>
 			<Item Name="MC5e Squad_Info.ctl" Type="VI" URL="../MC5e Squad_Info.ctl"/>
 			<Item Name="MC5e Squad_Set.ctl" Type="VI" URL="../MC5e Squad_Set.ctl"/>
