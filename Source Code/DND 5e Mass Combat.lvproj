@@ -23,15 +23,22 @@
 		<Item Name="MC5e Force.ctl" Type="VI" URL="../MC5e Force.ctl"/>
 		<Item Name="MC5e Gobal_Variables.vi" Type="VI" URL="../MC5e Gobal_Variables.vi"/>
 		<Item Name="MC5e Open Config XML.vi" Type="VI" URL="../MC5e Open Config XML.vi"/>
+		<Item Name="MC5e Open Unit XML.vi" Type="VI" URL="../MC5e Open Unit XML.vi"/>
 		<Item Name="MC5e Save Squad XML.vi" Type="VI" URL="../MC5e Save Squad XML.vi"/>
+		<Item Name="MC5e Save Unit XML.vi" Type="VI" URL="../MC5e Save Unit XML.vi"/>
 		<Item Name="MC5e Size_Categories.ctl" Type="VI" URL="../MC5e Size_Categories.ctl"/>
 		<Item Name="MC5e Squad_Editor.vi" Type="VI" URL="../MC5e Squad_Editor.vi"/>
 		<Item Name="MC5e Squad_Manager.vi" Type="VI" URL="../MC5e Squad_Manager.vi"/>
 		<Item Name="MC5e Squad_Manager_Modes.ctl" Type="VI" URL="../MC5e Squad_Manager_Modes.ctl"/>
+		<Item Name="MC5e Squads to Summary Strings.vi" Type="VI" URL="../MC5e Squads to Summary Strings.vi"/>
 		<Item Name="MC5e Terrain types.ctl" Type="VI" URL="../MC5e Terrain types.ctl"/>
 		<Item Name="MC5e Terrain_to_String.vi" Type="VI" URL="../MC5e Terrain_to_String.vi"/>
+		<Item Name="MC5e Unit Editor.vi" Type="VI" URL="../MC5e Unit Editor.vi"/>
+		<Item Name="MC5e Unit Header.ctl" Type="VI" URL="../MC5e Unit Header.ctl"/>
 		<Item Name="MC5e Unit.ctl" Type="VI" URL="../MC5e Unit.ctl"/>
-		<Item Name="MC53 Sqad_editor_modes.ctl" Type="VI" URL="../MC53 Sqad_editor_modes.ctl"/>
+		<Item Name="MC5e Unit_Manager.vi" Type="VI" URL="../MC5e Unit_Manager.vi"/>
+		<Item Name="MC5e Unit_Manager_Modes.ctl" Type="VI" URL="../MC5e Unit_Manager_Modes.ctl"/>
+		<Item Name="MC53 Editor modes.ctl" Type="VI" URL="../MC53 Editor modes.ctl"/>
 		<Item Name="Message_Log_Control.ctl" Type="VI" URL="../Utilities/Message_Log_Control.ctl"/>
 		<Item Name="Message_Manager.vi" Type="VI" URL="../Utilities/Message_Manager.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
