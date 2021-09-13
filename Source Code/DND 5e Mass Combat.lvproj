@@ -15,8 +15,10 @@
 		<Item Name="Library from Recovery.lvlib" Type="Library" URL="../Library from Recovery.lvlib"/>
 		<Item Name="Location.ctl" Type="VI" URL="../Location.ctl"/>
 		<Item Name="MC5e Build_Squad_Listbox.vi" Type="VI" URL="../MC5e Build_Squad_Listbox.vi"/>
+		<Item Name="MC5e Calculate Unit.vi" Type="VI" URL="../MC5e Calculate Unit.vi"/>
 		<Item Name="MC5e Calculate_Squad.vi" Type="VI" URL="../MC5e Calculate_Squad.vi"/>
 		<Item Name="MC5e Check Squad Name Unique.vi" Type="VI" URL="../MC5e Check Squad Name Unique.vi"/>
+		<Item Name="MC5e Check Unit is Unique.vi" Type="VI" URL="../MC5e Check Unit is Unique.vi"/>
 		<Item Name="MC5e Config File Types.ctl" Type="VI" URL="../MC5e Config File Types.ctl"/>
 		<Item Name="MC5e Control_Info_Cluster.ctl" Type="VI" URL="../MC5e Control_Info_Cluster.ctl"/>
 		<Item Name="MC5e Data_Parameters.ctl" Type="VI" URL="../MC5e Data_Parameters.ctl"/>
