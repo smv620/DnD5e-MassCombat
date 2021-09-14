@@ -15,6 +15,7 @@
 		<Item Name="Library from Recovery.lvlib" Type="Library" URL="../Library from Recovery.lvlib"/>
 		<Item Name="Location.ctl" Type="VI" URL="../Location.ctl"/>
 		<Item Name="MC5e Build_Squad_Listbox.vi" Type="VI" URL="../MC5e Build_Squad_Listbox.vi"/>
+		<Item Name="MC5e Build_Unit_Listbox.vi" Type="VI" URL="../MC5e Build_Unit_Listbox.vi"/>
 		<Item Name="MC5e Calculate Unit.vi" Type="VI" URL="../MC5e Calculate Unit.vi"/>
 		<Item Name="MC5e Calculate_Squad.vi" Type="VI" URL="../MC5e Calculate_Squad.vi"/>
 		<Item Name="MC5e Check Squad Name Unique.vi" Type="VI" URL="../MC5e Check Squad Name Unique.vi"/>
@@ -51,6 +52,7 @@
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Escape Characters for HTTP.vi" Type="VI" URL="/&lt;vilib&gt;/printing/PathToURL.llb/Escape Characters for HTTP.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Open URL in Default Browser (path).vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser (path).vi"/>
@@ -76,8 +78,10 @@
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="MC5e Add_to_Q.vi" Type="VI" URL="../MC5e Add_to_Q.vi"/>
 			<Item Name="MC5e Command Q.ctl" Type="VI" URL="../MC5e Command Q.ctl"/>
+			<Item Name="MC5e Editor modes.ctl" Type="VI" URL="../MC5e Editor modes.ctl"/>
 			<Item Name="MC5e Global_Error_Codes.vi" Type="VI" URL="../MC5e Global_Error_Codes.vi"/>
 			<Item Name="MC5e Open Squad XML.vi" Type="VI" URL="../MC5e Open Squad XML.vi"/>
 			<Item Name="MC5e Save_Config_XML.vi" Type="VI" URL="../MC5e Save_Config_XML.vi"/>
