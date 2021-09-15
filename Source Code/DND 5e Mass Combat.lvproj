@@ -14,6 +14,7 @@
 		<Item Name="(MAIN) __Mass Combat Sim.vi" Type="VI" URL="../(MAIN) __Mass Combat Sim.vi"/>
 		<Item Name="Library from Recovery.lvlib" Type="Library" URL="../Library from Recovery.lvlib"/>
 		<Item Name="Location.ctl" Type="VI" URL="../Location.ctl"/>
+		<Item Name="MC5e Add Squad to Unit.vi" Type="VI" URL="../MC5e Add Squad to Unit.vi"/>
 		<Item Name="MC5e Build_Squad_Listbox.vi" Type="VI" URL="../MC5e Build_Squad_Listbox.vi"/>
 		<Item Name="MC5e Build_Unit_Listbox.vi" Type="VI" URL="../MC5e Build_Unit_Listbox.vi"/>
 		<Item Name="MC5e Calculate Unit.vi" Type="VI" URL="../MC5e Calculate Unit.vi"/>
@@ -25,12 +26,12 @@
 		<Item Name="MC5e Data_Parameters.ctl" Type="VI" URL="../MC5e Data_Parameters.ctl"/>
 		<Item Name="MC5e Force.ctl" Type="VI" URL="../MC5e Force.ctl"/>
 		<Item Name="MC5e Gobal_Variables.vi" Type="VI" URL="../MC5e Gobal_Variables.vi"/>
-		<Item Name="MC5e List Squds in Unit Strings.vi" Type="VI" URL="../MC5e List Squds in Unit Strings.vi"/>
 		<Item Name="MC5e Open Config XML.vi" Type="VI" URL="../MC5e Open Config XML.vi"/>
 		<Item Name="MC5e Open Unit XML.vi" Type="VI" URL="../MC5e Open Unit XML.vi"/>
 		<Item Name="MC5e Save Squad XML.vi" Type="VI" URL="../MC5e Save Squad XML.vi"/>
 		<Item Name="MC5e Save Unit XML.vi" Type="VI" URL="../MC5e Save Unit XML.vi"/>
 		<Item Name="MC5e Size_Categories.ctl" Type="VI" URL="../MC5e Size_Categories.ctl"/>
+		<Item Name="MC5e Sqauds in Unit Strings.vi" Type="VI" URL="../MC5e Sqauds in Unit Strings.vi"/>
 		<Item Name="MC5e Squad_Editor.vi" Type="VI" URL="../MC5e Squad_Editor.vi"/>
 		<Item Name="MC5e Squad_Manager.vi" Type="VI" URL="../MC5e Squad_Manager.vi"/>
 		<Item Name="MC5e Squad_Manager_Modes.ctl" Type="VI" URL="../MC5e Squad_Manager_Modes.ctl"/>
