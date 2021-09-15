@@ -28,6 +28,7 @@
 		<Item Name="MC5e Gobal_Variables.vi" Type="VI" URL="../MC5e Gobal_Variables.vi"/>
 		<Item Name="MC5e Open Config XML.vi" Type="VI" URL="../MC5e Open Config XML.vi"/>
 		<Item Name="MC5e Open Unit XML.vi" Type="VI" URL="../MC5e Open Unit XML.vi"/>
+		<Item Name="MC5e Remove Squad from Unit.vi" Type="VI" URL="../MC5e Remove Squad from Unit.vi"/>
 		<Item Name="MC5e Save Squad XML.vi" Type="VI" URL="../MC5e Save Squad XML.vi"/>
 		<Item Name="MC5e Save Unit XML.vi" Type="VI" URL="../MC5e Save Unit XML.vi"/>
 		<Item Name="MC5e Size_Categories.ctl" Type="VI" URL="../MC5e Size_Categories.ctl"/>
@@ -51,6 +52,9 @@
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Delimited String to 1D String Array.vi"/>
+				<Item Name="Equal Comparable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Equal/Equal Comparable/Equal Comparable.lvclass"/>
+				<Item Name="Equal Functor.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Comparison/Equal/Equal Functor/Equal Functor.lvclass"/>
+				<Item Name="Equals.vim" Type="VI" URL="/&lt;vilib&gt;/Comparison/Equals.vim"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Escape Characters for HTTP.vi" Type="VI" URL="/&lt;vilib&gt;/printing/PathToURL.llb/Escape Characters for HTTP.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
@@ -63,6 +67,8 @@
 				<Item Name="Open URL in Default Browser.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/browser.llb/Open URL in Default Browser.vi"/>
 				<Item Name="Path to URL inner.vi" Type="VI" URL="/&lt;vilib&gt;/printing/PathToURL.llb/Path to URL inner.vi"/>
 				<Item Name="Path to URL.vi" Type="VI" URL="/&lt;vilib&gt;/printing/PathToURL.llb/Path to URL.vi"/>
+				<Item Name="Search Unsorted 1D Array Core.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Helpers/Search Unsorted 1D Array Core.vim"/>
+				<Item Name="Search Unsorted 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Search Unsorted 1D Array.vim"/>
 				<Item Name="Set Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Busy.vi"/>
 				<Item Name="Set Cursor (Cursor ID).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Cursor ID).vi"/>
 				<Item Name="Set Cursor (Icon Pict).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Icon Pict).vi"/>
@@ -88,7 +94,6 @@
 			<Item Name="MC5e Open Squad XML.vi" Type="VI" URL="../MC5e Open Squad XML.vi"/>
 			<Item Name="MC5e Save_Config_XML.vi" Type="VI" URL="../MC5e Save_Config_XML.vi"/>
 			<Item Name="MC5e Squad_Info.ctl" Type="VI" URL="../MC5e Squad_Info.ctl"/>
-			<Item Name="MC5e Squad_Set.ctl" Type="VI" URL="../MC5e Squad_Set.ctl"/>
 			<Item Name="Monitor_AdjustFileSize.vi" Type="VI" URL="../Utilities/Monitor_AdjustFileSize.vi"/>
 			<Item Name="OutputDebugString.vi" Type="VI" URL="../Utilities/OutputDebugString.vi"/>
 			<Item Name="Search Key string for Value.vi" Type="VI" URL="../../../NI-source-code/NI Custom VIs/Utilities/Version Management/Search Key string for Value.vi"/>
