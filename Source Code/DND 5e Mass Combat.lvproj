@@ -14,6 +14,7 @@
 		<Item Name="(MAIN) __Mass Combat Sim.vi" Type="VI" URL="../(MAIN) __Mass Combat Sim.vi"/>
 		<Item Name="Library from Recovery.lvlib" Type="Library" URL="../Library from Recovery.lvlib"/>
 		<Item Name="Location.ctl" Type="VI" URL="../Location.ctl"/>
+		<Item Name="Log Control Event.vi" Type="VI" URL="../Utilities/Log Control Event.vi"/>
 		<Item Name="MC5e Add Squad to Unit.vi" Type="VI" URL="../MC5e Add Squad to Unit.vi"/>
 		<Item Name="MC5e Build_Squad_Listbox.vi" Type="VI" URL="../MC5e Build_Squad_Listbox.vi"/>
 		<Item Name="MC5e Build_Unit_Listbox.vi" Type="VI" URL="../MC5e Build_Unit_Listbox.vi"/>
