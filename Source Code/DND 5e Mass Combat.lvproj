@@ -25,6 +25,7 @@
 		<Item Name="MC5e Data_Parameters.ctl" Type="VI" URL="../MC5e Data_Parameters.ctl"/>
 		<Item Name="MC5e Force.ctl" Type="VI" URL="../MC5e Force.ctl"/>
 		<Item Name="MC5e Gobal_Variables.vi" Type="VI" URL="../MC5e Gobal_Variables.vi"/>
+		<Item Name="MC5e List Squds in Unit Strings.vi" Type="VI" URL="../MC5e List Squds in Unit Strings.vi"/>
 		<Item Name="MC5e Open Config XML.vi" Type="VI" URL="../MC5e Open Config XML.vi"/>
 		<Item Name="MC5e Open Unit XML.vi" Type="VI" URL="../MC5e Open Unit XML.vi"/>
 		<Item Name="MC5e Save Squad XML.vi" Type="VI" URL="../MC5e Save Squad XML.vi"/>
