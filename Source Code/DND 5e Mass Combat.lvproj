@@ -91,6 +91,7 @@
 			<Item Name="MC5e Add_to_Q.vi" Type="VI" URL="../MC5e Add_to_Q.vi"/>
 			<Item Name="MC5e Command Q.ctl" Type="VI" URL="../MC5e Command Q.ctl"/>
 			<Item Name="MC5e Editor modes.ctl" Type="VI" URL="../MC5e Editor modes.ctl"/>
+			<Item Name="MC5e File Dialog UI.vi" Type="VI" URL="../MC5e File Dialog UI.vi"/>
 			<Item Name="MC5e Global_Error_Codes.vi" Type="VI" URL="../MC5e Global_Error_Codes.vi"/>
 			<Item Name="MC5e Open Squad XML.vi" Type="VI" URL="../MC5e Open Squad XML.vi"/>
 			<Item Name="MC5e Save_Config_XML.vi" Type="VI" URL="../MC5e Save_Config_XML.vi"/>
