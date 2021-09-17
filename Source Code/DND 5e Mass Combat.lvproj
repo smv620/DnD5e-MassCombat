@@ -45,6 +45,8 @@
 		<Item Name="MC5e Unit.ctl" Type="VI" URL="../MC5e Unit.ctl"/>
 		<Item Name="MC5e Unit_Manager.vi" Type="VI" URL="../MC5e Unit_Manager.vi"/>
 		<Item Name="MC5e Unit_Manager_Modes.ctl" Type="VI" URL="../MC5e Unit_Manager_Modes.ctl"/>
+		<Item Name="MC5e Validate Squad Selection.vi" Type="VI" URL="../MC5e Validate Squad Selection.vi"/>
+		<Item Name="MC5e Validate Unit Selection.vi" Type="VI" URL="../MC5e Validate Unit Selection.vi"/>
 		<Item Name="MC53 Editor modes.ctl" Type="VI" URL="../MC53 Editor modes.ctl"/>
 		<Item Name="Message_Log_Control.ctl" Type="VI" URL="../Utilities/Message_Log_Control.ctl"/>
 		<Item Name="Message_Manager.vi" Type="VI" URL="../Utilities/Message_Manager.vi"/>
