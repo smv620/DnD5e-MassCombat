@@ -29,6 +29,7 @@
 		<Item Name="MC5e Gobal_Variables.vi" Type="VI" URL="../MC5e Gobal_Variables.vi"/>
 		<Item Name="MC5e Open Config XML.vi" Type="VI" URL="../MC5e Open Config XML.vi"/>
 		<Item Name="MC5e Open Unit XML.vi" Type="VI" URL="../MC5e Open Unit XML.vi"/>
+		<Item Name="MC5e Parse Squad Cluster to String Array.vi" Type="VI" URL="../MC5e Parse Squad Cluster to String Array.vi"/>
 		<Item Name="MC5e Remove Squad from Unit.vi" Type="VI" URL="../MC5e Remove Squad from Unit.vi"/>
 		<Item Name="MC5e Save Squad XML.vi" Type="VI" URL="../MC5e Save Squad XML.vi"/>
 		<Item Name="MC5e Save Unit XML.vi" Type="VI" URL="../MC5e Save Unit XML.vi"/>
